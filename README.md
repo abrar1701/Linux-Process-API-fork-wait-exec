@@ -98,6 +98,7 @@ printf("Running ps with execlp. Now with path specified\n");
                 puts("child did not exit successfully\n");
         printf("Done.\n");
         exit(0);}
+```
 
 ##OUTPUT
 
